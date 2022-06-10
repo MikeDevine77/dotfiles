@@ -27,6 +27,13 @@ So, to recap, the install script will:
 Installation
 ------------
 
+
+``` proxy setup, optional
+git config --global http.proxy http://proxy.mycompany:80
+or
+git config --global http.proxy http://mydomain\\myusername:mypassword@myproxyserver:8080/
+```
+
 ``` bash
 git clone git://github.com/mikeydee77/dotfiles ~/dotfiles
 cd ~/dotfiles
