@@ -6,3 +6,4 @@
 :set ruler
 
 :set rulerformat=%l:,%v
+:set visualbell

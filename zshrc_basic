@@ -1,0 +1,9 @@
+
+export EDITOR=vim
+
+plugins=(
+  # ...all your other plugins
+  vi-mode
+)
+
+export NPM_CONFIG_IGNORE_SCRIPTS=true
