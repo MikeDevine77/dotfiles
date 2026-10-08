@@ -82,4 +82,5 @@ else
 fi
 }
 
-install_zsh
+# Suppressing zsh installation as seems to not play well on mac
+# install_zsh
