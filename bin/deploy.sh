@@ -18,6 +18,13 @@
 ## 
 ## ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+#Machines you trust
+#git fetch
+#git merge --ff-only '@{u}'
+
+#Important machines
+#git fetch
+
 ## Script Variables
 ##
 DOTFILES_DIR=~/dev/dotfiles                    # dotfiles directory
